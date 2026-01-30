@@ -1,0 +1,16 @@
+{
+  "name": "ejddir",
+  "version": "1.0.0",
+  "description": "A simple Express + EJS project that renders Instagram-like profiles using dynamic routing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["express", "ejs", "nodejs", "dynamic-routing"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ejs": "^3.1.9"
+  }
+}
